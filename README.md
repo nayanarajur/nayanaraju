@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nayanarollend
+- 👋 Hi, I’m @nayana
 - 👀 I’m interested in C, Python, Java
 - 🌱 I’m currently learning python, devops
 - 💞️ I’m looking to collaborate on automation projects
